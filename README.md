@@ -1,4 +1,4 @@
-# Hi! Welcome to my profile!
+# ✋ Hi! Welcome to my profile!
 Hi, My name is Sanghui Park (Sanghee Park, depending on your style of Korean pronunciation).  
 also known as Alex4386!  
   
@@ -29,19 +29,19 @@ I am also CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).
 * **Chinese** (🇨🇳,🇹🇼) 
 
 ## 🖥️ Programming Languages
-### Advanced
+### 🥇 Advanced
 ![node.JS (advanced)](https://img.shields.io/badge/Node.JS-advanced-blue?style=for-the-badge&logo=node.js)
 ![Typescript (advanced)](https://img.shields.io/badge/Typescript-advanced-blue?style=for-the-badge&logo=typescript)
 ![PHP (advanced)](https://img.shields.io/badge/PHP-advanced-blue?style=for-the-badge&logo=php)
 
-### Intermediate
+### 🉑 Intermediate
 ![.NET Framework (intermediate)](https://img.shields.io/badge/.NET%20Framework-intermediate-orange?style=for-the-badge&logo=.Net)
 ![Java (intermediate)](https://img.shields.io/badge/Java-intermediate-orange?style=for-the-badge&logo=java)
 ![Python (intermediate)](https://img.shields.io/badge/Python-intermediate-orange?style=for-the-badge&logo=python)
 ![PyTorch (intermediate)](https://img.shields.io/badge/PyTorch-intermediate-orange?style=for-the-badge&logo=pytorch)
 ![JavaScript (intermediate)](https://img.shields.io/badge/Javascript-intermediate-orange?style=for-the-badge&logo=javascript)
 
-### Beginner
+### 🔰 Beginner
 ![C++ (beginner)](https://img.shields.io/badge/C-beginner-darkgreen?style=for-the-badge&logo=c)
 ![C++ (beginner)](https://img.shields.io/badge/C%2B%2B-beginner-darkgreen?style=for-the-badge&logo=c%2B%2B)
 ![Rust (beginner)](https://img.shields.io/badge/Rust-beginner-darkgreen?style=for-the-badge&logo=rust)
@@ -54,7 +54,8 @@ I am also CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).
 - Rust Language
 
 ## 🤫 My GPG Public Key
-[![React (beginner)](https://img.shields.io/badge/GPG%20Fingerprint-A7C7BF416AE3B5A60BF8CB8B647C79F2A2F47CD1-purple?style=for-the-badge)](https://cdn.alex4386.me/gpg/alex4386.pub.gpg)
+[![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-A7C7BF416AE3B5A60BF8CB8B647C79F2A2F47CD1-purple?style=for-the-badge)](https://cdn.alex4386.me/gpg/alex4386.pub.gpg)  
+You can receive my GPG public key by clicking the badge above or [here](https://cdn.alex4386.me/gpg/alex4386.pub.gpg)  
 
 ## 📫 Contacts
 [![Facebook](https://img.shields.io/badge/Facebook-Sanghui%20Park-004386?style=for-the-badge&logo=facebook)](https://www.facebook.com/psh010209/)
