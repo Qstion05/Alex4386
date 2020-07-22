@@ -56,7 +56,7 @@ I am also CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).
 ## 🤫 My GPG Public Key
 [![React (beginner)](https://img.shields.io/badge/GPG%20Fingerprint-A7C7BF416AE3B5A60BF8CB8B647C79F2A2F47CD1-purple?style=for-the-badge)](https://cdn.alex4386.me/gpg/alex4386.pub.gpg)
 
-## 🌐 Contacts
+## 📫 Contacts
 [![Facebook](https://img.shields.io/badge/Facebook-Sanghui%20Park-004386?style=for-the-badge&logo=facebook)](https://www.facebook.com/psh010209/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Sanghui%20Park-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alex4386/)
 
