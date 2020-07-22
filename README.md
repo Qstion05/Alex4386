@@ -1,4 +1,4 @@
-# ✋ Hi! Welcome to my profile!
+# 🙇 Hi! Welcome to my profile!
 Hi, My name is **Sanghui Park** (**Sanghee Park**, depending on your style of Korean pronunciation).  
 also known as **Alex4386**!  
 
@@ -17,7 +17,7 @@ Wanna skip my introduction? [Click here to see my repos](#bye)
 
 [![alex4386's github stats](https://github-readme-stats.vercel.app/api?username=alex4386&show_icons=true&hide_border=true)](https://github.com/alex4386)
 
-## [🌐 Languages](/lang/README.md)
+## 🌐 Languages
 ### 🗣️ Language I can "speak"
 * **Korean** 🇰🇷 - Native
 * **English** 🇺🇸 - Secondary Language (fluent)
@@ -25,6 +25,8 @@ Wanna skip my introduction? [Click here to see my repos](#bye)
 ### 🤦 Language I currently have limited capabilities
 * **Japanese** 🇯🇵
 * **Chinese** (🇨🇳,🇹🇼) 
+
+For more information, Please click [here](/lang/README.md).  
 
 ## 🖥️ Programming Languages
 ### 🥇 Advanced
@@ -65,7 +67,7 @@ You can receive my GPG public key by clicking the badge above or [here](https://
 
 Want to see more contacts? Click [here](/contact/README.md)
 
-## Bye!
+## 👋 Bye!
 
 <!--
 **Alex4386/Alex4386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
