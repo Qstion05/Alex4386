@@ -22,7 +22,7 @@ I am also CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).
   * 🇺🇸 American accent - (partially?) supported
   * 🇬🇧 British accent - learning...
 
-### 🤦 Language I am currently have limited capabilities
+### 🤦 Language I currently have limited capabilities
 * **Japanese** 🇯🇵
 * **Chinese** (🇨🇳,🇹🇼) 
 
