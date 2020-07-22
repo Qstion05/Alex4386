@@ -58,7 +58,8 @@ I am also CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).
 ### 🖥️ Computers
 #### 💻 My daily driver
 Macbook Pro 15-inch 2018
-* Operating System: macOS Catalina 10.15.5 ~~(which I hate)~~
+* Operating System: macOS Catalina 10.15.5 ~~(which I hate, freezes every single time)~~
+* CPU: Intel® Core i9-8950HK at 2.9GHz (Turbo: 4.8GHz)
 * RAM: DDR4 32GiB
 * GPU: AMD Radeon 555X
 * SSD: Apple® Proprietary PCI-e 1TiB
