@@ -26,7 +26,7 @@ Wanna skip my introduction? [Click here to see my repos](#-bye)
 * **Japanese** 🇯🇵
 * **Chinese** (🇨🇳,🇹🇼) 
 
-For more information, Please click [here](/lang/README.md).  
+For more information, Please click [here](https://github.com/Alex4386/Alex4386/blob/master/lang/README.md).  
 
 ## 🖥️ Programming Languages
 ### 🥇 Advanced
@@ -53,7 +53,7 @@ For more information, Please click [here](/lang/README.md).
 
 ## 👍 My preferences
 I am using 2018 Macbook Pro 15-inch as my daily driver.  
-Want to see detailed explanation? Click [here](/pref/README.md).
+Want to see detailed explanation? Click [here](https://github.com/Alex4386/Alex4386/blob/master/pref/README.md).
 
 ## 🤫 My GPG Public Key
 [![GPG Public Key](https://img.shields.io/badge/GPG%20Fingerprint-A7C7BF416AE3B5A60BF8CB8B647C79F2A2F47CD1-purple?style=for-the-badge)](https://cdn.alex4386.me/gpg/alex4386.pub.gpg)  
@@ -65,7 +65,7 @@ You can receive my GPG public key by clicking the badge above or [here](https://
 [![Keybase](https://img.shields.io/badge/Keybase-alex4386-004386?style=for-the-badge&logo=keybase)](https://keybase.io/alex4386)
 [![Discord](https://img.shields.io/badge/Discord-join!-004386?style=for-the-badge&logo=discord)](https://discord.com/invite/xpbMQPa)
 
-Want to see more contacts? Click [here](/contact/README.md)
+Want to see more contacts? Click [here](https://github.com/Alex4386/Alex4386/blob/master/contact/README.md)
 
 ## 👋 Bye!
 
