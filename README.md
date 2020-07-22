@@ -10,6 +10,8 @@ Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http
 
 I am also CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).  
 
+Wanna skip my introduction? [Click here to see my repos](#bye)
+
 ## 📊 GitHub Stats
 [![Github Followers](https://img.shields.io/github/followers/alex4386?color=darkgreen&label=Github%20Followers&style=for-the-badge)](https://github.com/alex4386?tab=followers) 
 
@@ -95,6 +97,8 @@ You can receive my GPG public key by clicking the badge above or [here](https://
 [![Twitch](https://img.shields.io/badge/Twitch-alex4386-004386?style=for-the-badge&logo=twitch)](https://www.twitch.tv/alex4386)
 [![Discord](https://img.shields.io/badge/Discord-join!-004386?style=for-the-badge&logo=discord)](https://discord.com/invite/xpbMQPa)
 [![Kakaotalk](https://img.shields.io/badge/Kakaotalk-alex4386-004386?style=for-the-badge&logo=kakaotalk)](https://open.kakao.com/me/Alex4386)
+
+## Bye!
 
 <!--
 **Alex4386/Alex4386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
