@@ -65,8 +65,7 @@ You can receive my GPG public key by clicking the badge above or [here](https://
 [![Keybase](https://img.shields.io/badge/Keybase-alex4386-004386?style=for-the-badge&logo=keybase)](https://keybase.io/alex4386)
 [![Discord](https://img.shields.io/badge/Discord-join!-004386?style=for-the-badge&logo=discord)](https://discord.com/invite/xpbMQPa)
 
-Want to see more contacts? Click [here](https://github.com/Alex4386/Alex4386/blob/master/contact/README.md)  
-Wanna game? My gaming contacts are available at [here](https://github.com/Alex4386/Alex4386/blob/master/contact/README.md)  , too!
+Want to see more contacts? (include gaming!) Click [here](https://github.com/Alex4386/Alex4386/blob/master/contact/README.md).  
 
 ## 👋 Bye!
 
