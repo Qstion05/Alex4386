@@ -2,7 +2,9 @@
 Hi, My name is Sanghui Park (Sanghee Park, depending on your style of Korean pronunciation).  
 also known as Alex4386!  
   
-I am currently undergraduate (sophomore) in Gachon University and Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http://pr.gachon.ac.kr).  
+I am currently undergraduate (sophomore) in Gachon University  
+and Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http://pr.gachon.ac.kr).  
+
 I am also CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).  
 
 ## 📊 GitHub Stats
