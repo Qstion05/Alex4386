@@ -1,9 +1,9 @@
 # ✋ Hi! Welcome to my profile!
-Hi, My name is Sanghui Park (Sanghee Park, depending on your style of Korean pronunciation).  
-also known as Alex4386!  
+Hi, My name is **Sanghui Park** (**Sanghee Park**, depending on your style of Korean pronunciation).  
+also known as **Alex4386**!  
 
-For Korean Speakers, Welcome! My name is 박상희 in Korean!  
-For English Speakers, you can call me both Alex Park, or the names above by your preference.  
+For Korean Speakers, Welcome! My name is **박상희** in Korean!  
+For English Speakers, you can call me both **Alex Park**, or the names above by your preference.  
   
 I am currently undergraduate (sophomore) in Gachon University and  
 Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http://pr.gachon.ac.kr).  
