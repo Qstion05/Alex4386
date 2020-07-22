@@ -27,3 +27,5 @@
   * zsh-autosuggestion
   * zsh-syntax-highlighting
 * my zsh configuration: [gist](https://gist.github.com/Alex4386/7818ecbbf701c36052d77477d0ee7443) **<- NEEDS TO BE UPDATED**
+
+[Return to profile](https://github.com/Alex4386)
