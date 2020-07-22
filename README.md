@@ -10,7 +10,7 @@ Research Assistant at [Pattern Recognition and Machine Learning Laboratory](http
 
 I am also CIO (a.k.a. "Slave") at [Stella-IT](https://github.com/Stella-IT).  
 
-Wanna skip my introduction? [Click here to see my repos](#bye)
+Wanna skip my introduction? [Click here to see my repos](#-bye)
 
 ## 📊 GitHub Stats
 [![Github Followers](https://img.shields.io/github/followers/alex4386?color=darkgreen&label=Github%20Followers&style=for-the-badge)](https://github.com/alex4386?tab=followers) 
