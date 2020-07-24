@@ -50,7 +50,7 @@ For more information, Please click [here](https://github.com/Alex4386/Alex4386/b
 - Rust Language
 
 ## 👍 My preferences
-I am using 2018 Macbook Pro 15-inch as my daily driver.  
+I am using [MacBook Pro (15-inch, 2018) Space Gray](https://support.apple.com/kb/SP776) as my daily driver.  
 Want to see detailed explanation? Click [here](https://github.com/Alex4386/Alex4386/blob/master/pref/README.md).
 
 ## 🤫 My GPG Public Key
