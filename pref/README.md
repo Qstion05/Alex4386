@@ -1,14 +1,17 @@
-## 👍 My preferences
-### 🖥️ Computers
-#### 💻 My daily driver
-2018 Macbook Pro 15-inch
-* Operating System: macOS Catalina 10.15.5 ~~(which I hate, freezes every single time)~~
+# 👍 My preferences
+## 🖥️ Computers
+### 💻 My daily driver
+[Macbook Pro (15-inch, 2018)](https://support.apple.com/kb/SP776)
+* Color: Space gray
 * CPU: Intel® Core i9-8950HK at 2.9GHz (Turbo: 4.8GHz)
 * RAM: DDR4 32GiB
 * GPU: AMD Radeon 555X
 * SSD: Apple® Proprietary PCI-e 1TiB
+* OS: [macOS Catalina](https://www.apple.com/macos/catalina/) 10.15.5
 
-### 🔧 Personal Preferences
+~~constantly freezes during work :facepalm:~~
+
+## 🔧 Personal Preferences
 * Shell: zsh (with oh-my-zsh)
 * Theme: [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 * Personal Font:
@@ -26,6 +29,6 @@
   * git
   * zsh-autosuggestion
   * zsh-syntax-highlighting
-* my zsh configuration: [gist](https://gist.github.com/Alex4386/7818ecbbf701c36052d77477d0ee7443) **<- NEEDS TO BE UPDATED**
+* my zsh configuration: ~~[gist](https://gist.github.com/Alex4386/7818ecbbf701c36052d77477d0ee7443)~~ **OUTDATED CONFIGURATION**
 
 [Return to profile](https://github.com/Alex4386)
