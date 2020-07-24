@@ -65,6 +65,12 @@ You can receive my GPG public key by clicking the badge above or [here](https://
 
 Want to see more contacts? (include gaming!) Click [here](https://github.com/Alex4386/Alex4386/blob/master/contact/README.md).  
 
+## ☕ Buy me a coffee
+[![Buy me a cup of coffee](https://img.shields.io/badge/Paypal-Buy%20me%20coffee-004386?style=for-the-badge&logo=paypal)](https://paypal.me/alex4386)
+You can sponsor me by clicking badge above or clicking [here](https://paypal.me/alex4386).
+
+If you *"sponsored"* me, Please make a Pull Request on [this repository](https://github.com/Alex4386/Alex4386) with your name if you want to be in the credits!  
+
 ## 👋 Bye!
 
 <!--
