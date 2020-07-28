@@ -7,7 +7,7 @@
 * RAM: DDR4 32GiB
 * GPU: AMD Radeon 555X
 * SSD: Apple® Proprietary PCI-e 1TiB
-* OS: [macOS Catalina](https://www.apple.com/macos/catalina/) 10.15.5
+* OS: [macOS Catalina](https://www.apple.com/macos/catalina/) 10.15.6
 
 ~~constantly freezes during work :facepalm:~~
 
