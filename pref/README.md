@@ -11,6 +11,16 @@
 
 ~~constantly freezes during work :facepalm:~~
 
+### 🧪 Lab Machine
+**Samsung Electronics MagicStation Desktop** with several upgrades  
+* CPU: Intel i7-6XXX at 2.X Ghz (Turbo: Unknown)
+* RAM: DDR4 16GiB
+* GPU: Nvidia Geforce GTX 1060 4GB
+* SSD:
+  * Samsung SSD 860 EVO 256GiB
+  * Transcend SSD 256GiB
+* OS: [Ubuntu 20.04.1 LTS](https://ubuntu.com/download/desktop)
+
 ## 🔧 Personal Preferences
 * Shell: zsh (with oh-my-zsh)
 * Theme: [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
