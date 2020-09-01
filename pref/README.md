@@ -13,9 +13,9 @@
 
 ### 🧪 Lab Machine
 **Samsung Electronics MagicStation Desktop** with several upgrades  
-* CPU: Intel i7-6XXX at 2.X Ghz (Turbo: Unknown)
+* CPU: Intel i7-6700 at 3.4 Ghz (Turbo: 4.0Ghz)
 * RAM: DDR4 16GiB
-* GPU: Nvidia Geforce GTX 1060 4GB
+* GPU: Nvidia Geforce GTX 1060 3GB
 * SSD:
   * Samsung SSD 860 EVO 256GiB
   * Transcend SSD 256GiB
